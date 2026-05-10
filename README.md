@@ -104,6 +104,10 @@ Total Crimes = COUNT('public crime_stats'[id])
 ---
 
 ## Dashboard Preview
+<p align="center">
+  <img src="OIJ DashBoard.jpg " width="700" alt="OIJ Incident Intelligence Dashboard"/>
+</p>
+
 
 ---
 
